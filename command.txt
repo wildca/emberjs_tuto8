@@ -1,3 +1,0 @@
-command: ember server
-
-url tuto: https://www.tutorialspoint.com/emberjs/emberjs_tutorial.pdf
